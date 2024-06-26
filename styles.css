@@ -29,11 +29,15 @@ header nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: 500;
-    transition: color 0.3s ease;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #18bc9c;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 header nav ul li a:hover {
-    color: #18bc9c;
+    background-color: #148f76;
+    color: white;
 }
 
 main {
@@ -80,4 +84,20 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+/* Button styling */
+button, .button {
+    background-color: #18bc9c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+button:hover, .button:hover {
+    background-color: #148f76;
 }
