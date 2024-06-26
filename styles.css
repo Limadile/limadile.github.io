@@ -29,15 +29,15 @@ header nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: 500;
-    padding: 10px 20px;
-    border-radius: 20px;
-    background-color: #18bc9c;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease, color 0.3s ease, padding 0.3s ease, border-radius 0.3s ease;
 }
 
 header nav ul li a:hover {
-    background-color: #148f76;
+    background-color: #18bc9c;
     color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
 }
 
 main {
@@ -63,10 +63,6 @@ footer {
 /* Additional styling for a more premium look */
 body {
     line-height: 1.6;
-}
-
-header nav ul li a {
-    padding: 5px 10px;
 }
 
 main h1, main h2, main h3 {
