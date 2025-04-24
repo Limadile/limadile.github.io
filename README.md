@@ -15,11 +15,6 @@ Welcome to **LiamRepurposed** – the space where tech meets innovation!
 
 I'm committed to **studying, learning, and growing** alongside you. Follow my progress as I continue to develop my skills, share insights, and work on exciting projects.
 
-**Stats**:
-- 📝 1 Post
-- 👥 11 Followers
-- 👤 10 Following
-
 👇 **Follow my journey** and stay updated on all things tech and programming!
 
 ---
